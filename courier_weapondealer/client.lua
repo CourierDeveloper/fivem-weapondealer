@@ -11,8 +11,8 @@ local Keys = {
 }
 
 ----============================================================================
-local SekretneHaslo = "Armas" --twoje haslo
-local Bronia1 = {weapon = "WEAPON_PISTOL", cena = 750, nazwa = "Pistola"} --bronie wedle tego schematu | weapon | cena | nazwa
+local SekretneHaslo = "Armas"
+local Bronia1 = {weapon = "WEAPON_PISTOL", cena = 750, nazwa = "Pistola"}
 local Bronia2 = {weapon = "WEAPON_PISTOL50", cena = 1700, nazwa = "Pistola .50"}
 local Bronia3 = {weapon = "WEAPON_SMG", cena = 9500, nazwa = "SMG"}
 local Bronia4 = {weapon = "WEAPON_BAT", cena = 500, nazwa = "Bate de Beisbol"}
