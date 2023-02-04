@@ -22,15 +22,7 @@ local Bronia7 = {weapon = "WEAPON_ASSAULTRIFLE_MK2", cena = 15000, nazwa = "Cara
 local Bronia8 = {weapon = "WEAPON_PUMPSHOTGUN", cena = 6500, nazwa = "Escopeta"}
 local Bronia9 = {weapon = "WEAPON_PUMPSHOTGUN_MK2", cena = 9300, nazwa = "Escopeta MK2"}
 local Bronia10 = {weapon = "WEAPON_HEAVYPISTOL", cena = 3500, nazwa = "Arma Pesada"}
---[[
---[[
-JEŻELI CHCESZ NP TYLKO 2 BRONIE TO W RESZCIE POD 'nazwa' DAJ WARTOŚĆ nil w ten sposób:
-
-local Bronia4 = {weapon = "WEAPON_BAT", cena = 500, nazwa = nil} 
-
-]]
 local PojazdHandlarza = 'rumpo2'
----===================Nie tykaj======================================================
 local Zakupiono = 0
 local opened = 0
 local drivingStyle = 786603
